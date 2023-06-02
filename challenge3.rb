@@ -5,3 +5,4 @@ def remove_s(word)
     word.delete("s")
 end
 
+#if the prompt is asking to remoce "S" as well, just add it to the .delete argument ("s""S")
